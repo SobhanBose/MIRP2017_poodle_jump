@@ -1,4 +1,4 @@
-int displayWidth=600, displayHeight=1000;
+int displayWidth=500, displayHeight=670;
 // Game State
 // 0 -- Start Screen
 // 1 -- Game Running Screen
